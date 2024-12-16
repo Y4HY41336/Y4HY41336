@@ -1,3 +1,3 @@
-- 👋 Hi, I’m @Y4HY41336
-- 🌱 I’m currently learning ...
+- 👋 Hi, I’m Yahya
+- 🌱 I’m currently learning .Net
 - 📫 How to reach me: seferlieliyehya@gmail.com
